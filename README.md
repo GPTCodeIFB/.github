@@ -33,9 +33,9 @@ Estamos em fase de construção de nosso Site, mas por enquanto você também po
 
 ### Professores:
 
-| ![Dauster Souza](https://avatars.githubusercontent.com/u/148724441?v=4) | ![Claudio Ulisse](https://avatars.githubusercontent.com/u/5414440?v=4) | ![Fernando Wagner](xx) | ![Sylvana Karla da Silva de Lemos Santos](xx) | ![Fulano de Tal](xxxx) |
-|:---:|:---:|:---:|:---:|:---:|
-| [Prof. Dr. Dauster Souza Pereira](https://github.com/daustersp) | [Prof. Me. Claudio Ulisse](https://github.com/claulis/) | [Prof. Me. Fernando Wagner Brito Hortêncio Filho](https://github.com/daustersp) | [Profª Drª Sylvana Karla da Silva de Lemos Santos](https://github.com/daustersp) | [Fulano de Tal](https://github.com/daustersp) |
+| ![Dauster Souza](https://avatars.githubusercontent.com/u/148724441?v=4) | ![Claudio Ulisse](https://avatars.githubusercontent.com/u/5414440?v=4) | ![Fernando Wagner](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Sylvana Karla da Silva de Lemos Santos](https://avatars.githubusercontent.com/u/64563029?v=4) |
+|:---:|:---:|:---:|:---:|
+| [Prof. Dr. Dauster Souza Pereira](https://github.com/daustersp) | [Prof. Me. Claudio Ulisse](https://github.com/claulis/) | [Prof. Me. Fernando Wagner Brito Hortêncio Filho](https://github.com/daustersp) | [Profª Drª Sylvana Karla da Silva de Lemos Santos](https://github.com/sylkarla) |
      
 
 ### Estudantes de Cursos de Graduação:
@@ -51,12 +51,12 @@ Estamos em fase de construção de nosso Site, mas por enquanto você também po
 |:---:|:---:|:---:|:---:|:---:|
 | [Mayara Vieira Martins Santos](https://github.com/MayaraVieiraa) | [Sávio Vinícius de Sousa](https://github.com/savifb) | [Vitória Santana Silva](https://github.com/VII-Z) | [Fulano 4](https://github.com/daustersp) | [Fulano 5](https://github.com/daustersp) |
 
-
+<!--
 ### Estudantes de Cursos Técnicos Subsequentes:
 | ![Déborah](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Isabela](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Letícia](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fulano 4](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fulano 5](https://avatars.githubusercontent.com/u/230431728?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
 | [Fulano 1](https://github.com/daustersp) | [Fulano 2](https://github.com/daustersp) | [Fulano 3](https://github.com/daustersp) | [Fulano 4](https://github.com/daustersp) | [Fulano 5](https://github.com/daustersp) |
-
+-->
 
 ### Ex-Alunos do IFB e/ou Colaboradores Externos:
 | ![Andersen Gonzaga Facundo](https://avatars.githubusercontent.com/u/138904363?v=4) | ![Anderson de Castro Gomes](https://avatars.githubusercontent.com/u/139027256?v=4) | ![Edilson Nery Barbosa](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fernando Fábio Inocêncio Cavalcante](https://avatars.githubusercontent.com/u/161374485?v=4) | ![Ciclano C](https://avatars.githubusercontent.com/u/230431728?v=4) |
