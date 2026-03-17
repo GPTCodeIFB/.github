@@ -53,7 +53,7 @@ Estamos em fase de construção de nosso Site, mas por enquanto você também po
 
 
 ### Estudantes de Cursos Técnicos Subsequentes:
-| ![Déborah](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Isabela](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Letícia](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Maria Oliveira](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fulano 5](https://avatars.githubusercontent.com/u/230431728?v=4) |
+| ![Déborah](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Isabela](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Letícia](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Maria Oliveira](https://avatars.githubusercontent.com/u/146585676?v=4) | ![Fulano 5](https://avatars.githubusercontent.com/u/230431728?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
 | [Déborah](https://github.com/daustersp) | [Isabela](https://github.com/daustersp) | [Letícia](https://github.com/daustersp) | [Maria Oliveira](https://github.com/rubydevz) | [Fulano 5](https://github.com/daustersp) |
 
