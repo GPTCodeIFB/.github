@@ -47,9 +47,9 @@ Estamos em fase de construção de nosso Site, mas por enquanto você também po
 |:---:|:---:|:---:|:---:|:---:|
 | [Gabriel Azevedo Marques](https://github.com/GabrielAzM) | [Gabriel Gonçalves dos Santos Silva](https://github.com/Gabriel25484) | [Ivanilson Paixão Cirqueira](https://github.com/ivanilsonstfler) | [Leandro Souza Rocha](https://github.com/Leandrorocha17) | [Mateus Nascimento Aires](https://github.com/mateuaires) |
 
-| ![Mayara Vieira Martins Santos](https://avatars.githubusercontent.com/u/153861782?v=4) | ![Sávio Vinícius de Sousa](https://avatars.githubusercontent.com/u/129786165?v=4) | ![Vitória Santana Silva](https://avatars.githubusercontent.com/u/143649633?v=4) | ![Fulano 4](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fulano 5](https://avatars.githubusercontent.com/u/230431728?v=4) |
+| ![Mayara Vieira Martins Santos](https://avatars.githubusercontent.com/u/153861782?v=4) | ![Sávio Vinícius de Sousa](https://avatars.githubusercontent.com/u/129786165?v=4) | ![Vitória Santana Silva](https://avatars.githubusercontent.com/u/143649633?v=4) | ![Pedro Simão](https://avatars.githubusercontent.com/u/161898333?v=4) | ![Fulano 5](https://avatars.githubusercontent.com/u/230431728?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
-| [Mayara Vieira Martins Santos](https://github.com/MayaraVieiraa) | [Sávio Vinícius de Sousa](https://github.com/savifb) | [Vitória Santana Silva](https://github.com/VII-Z) | [Fulano 4](https://github.com/daustersp) | [Fulano 5](https://github.com/daustersp) |
+| [Mayara Vieira Martins Santos](https://github.com/MayaraVieiraa) | [Sávio Vinícius de Sousa](https://github.com/savifb) | [Vitória Santana Silva](https://github.com/VII-Z) | [Pedro Simão](https://github.com/pedroskoliveira) | [Fulano 5](https://github.com/daustersp) |
 
 
 ### Estudantes de Cursos Técnicos Subsequentes:
