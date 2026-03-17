@@ -51,12 +51,12 @@ Estamos em fase de construção de nosso Site, mas por enquanto você também po
 |:---:|:---:|:---:|:---:|:---:|
 | [Mayara Vieira Martins Santos](https://github.com/MayaraVieiraa) | [Sávio Vinícius de Sousa](https://github.com/savifb) | [Vitória Santana Silva](https://github.com/VII-Z) | [Fulano 4](https://github.com/daustersp) | [Fulano 5](https://github.com/daustersp) |
 
-<!--
+
 ### Estudantes de Cursos Técnicos Subsequentes:
-| ![Déborah](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Isabela](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Letícia](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fulano 4](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fulano 5](https://avatars.githubusercontent.com/u/230431728?v=4) |
+| ![Déborah](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Isabela](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Letícia](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Maria Oliveira](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fulano 5](https://avatars.githubusercontent.com/u/230431728?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
-| [Fulano 1](https://github.com/daustersp) | [Fulano 2](https://github.com/daustersp) | [Fulano 3](https://github.com/daustersp) | [Fulano 4](https://github.com/daustersp) | [Fulano 5](https://github.com/daustersp) |
--->
+| [Déborah](https://github.com/daustersp) | [Isabela](https://github.com/daustersp) | [Letícia](https://github.com/daustersp) | [Maria Oliveira](https://github.com/rubydevz) | [Fulano 5](https://github.com/daustersp) |
+
 
 ### Ex-Alunos do IFB e/ou Colaboradores Externos:
 | ![Andersen Gonzaga Facundo](https://avatars.githubusercontent.com/u/138904363?v=4) | ![Anderson de Castro Gomes](https://avatars.githubusercontent.com/u/139027256?v=4) | ![Edilson Nery Barbosa](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fernando Fábio Inocêncio Cavalcante](https://avatars.githubusercontent.com/u/161374485?v=4) | ![Ciclano C](https://avatars.githubusercontent.com/u/230431728?v=4) |
