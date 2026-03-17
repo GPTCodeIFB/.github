@@ -45,7 +45,7 @@ Estamos em fase de construção de nosso Site, mas por enquanto você também po
 
 | ![Gabriel Azevedo Marques](https://avatars.githubusercontent.com/u/100439515?v=4) | ![Gabriel Gonçalves dos Santos Silva](https://avatars.githubusercontent.com/u/114953469?v=4) | ![Ivanilson Paixão Cirqueira](https://avatars.githubusercontent.com/u/143647580?v=4) | ![Leandro Souza Rocha](https://avatars.githubusercontent.com/u/114433850?v=4) | ![Mateus Nascimento Aires](https://avatars.githubusercontent.com/u/137817410?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
-| [Gabriel Azevedo Marques](https://github.com/SkyWallker616) | [Gabriel Gonçalves dos Santos Silva](https://github.com/Gabriel25484) | [Ivanilson Paixão Cirqueira](https://github.com/ivanilsonstfler) | [Leandro Souza Rocha](https://github.com/Leandrorocha17) | [Mateus Nascimento Aires](https://github.com/mateuaires) |
+| [Gabriel Azevedo Marques](https://github.com/GabrielAzM) | [Gabriel Gonçalves dos Santos Silva](https://github.com/Gabriel25484) | [Ivanilson Paixão Cirqueira](https://github.com/ivanilsonstfler) | [Leandro Souza Rocha](https://github.com/Leandrorocha17) | [Mateus Nascimento Aires](https://github.com/mateuaires) |
 
 | ![Mayara Vieira Martins Santos](https://avatars.githubusercontent.com/u/153861782?v=4) | ![Sávio Vinícius de Sousa](https://avatars.githubusercontent.com/u/129786165?v=4) | ![Vitória Santana Silva](https://avatars.githubusercontent.com/u/143649633?v=4) | ![Fulano 4](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fulano 5](https://avatars.githubusercontent.com/u/230431728?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
